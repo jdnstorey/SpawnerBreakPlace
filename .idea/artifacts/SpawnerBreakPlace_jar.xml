@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpawnerBreakPlace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpawnerBreakPlace_jar</output-path>
+    <root id="archive" name="SpawnerBreakPlace.jar">
+      <element id="module-output" name="SpawnerBreakPlace" />
+    </root>
+  </artifact>
+</component>
